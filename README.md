@@ -17,10 +17,10 @@ Welcome to my GitHub space — I'm a passionate **Full Stack Developer**, an **O
 
 ## 🚀 Current Projects
 
-- 🔬 **[OceanSense](https://github.com/Doit-A)** – An environmental awareness platform promoting ocean conservation.
+- 🔬 **[OceanSense]([https://github.com/Doit-A](https://oceansense-backend.web.app/))** – An environmental awareness platform promoting ocean conservation.
 - 📱 **Expensely** – A React Native app for tracking daily expenses with a clean UI.
 - 🩸 **Blood Donation System** – A full-stack app built using React Native + Firebase for donor & emergency blood requests.
-- 🛒 **PrakritiKendra** – An e-commerce platform for eco-friendly products (Cloud Computing project).
+- 🛒 **[PrakritiKendra]([https://login-ae1c9.web.app/))** – An e-commerce platform for eco-friendly products (Cloud Computing project).
 - 🤖 **AI Resume Builder** – Generate smart resumes with the help of AI (MERN + GPT tech).
 - 🔧 **GenAI Auto Repair Assistant** – Hackathon project using AI for diagnosing vehicle issues and suggesting repairs.
 
