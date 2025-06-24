@@ -46,9 +46,9 @@ Welcome to my GitHub space — I'm a passionate **Full Stack Developer**, an **O
 ## 📫 Let's Connect!
 
 - 📍 India
-- 🧑‍💻 [Portfolio](https://doit-ay.github.io) (if available)
+- 🧑‍💻 [Portfolio]([https://doit-ay.github.io](https://aditya.mitraadi.com/)) (if available)
 - 💼 [LinkedIn](https://www.linkedin.com/in/aditya-y)
-- 📩 Mail: **[youremail@gmail.com]** (replace with your email)
+- 📩 Mail: **[aditya112004ahir@gmail.com]** 
 
 ---
 
